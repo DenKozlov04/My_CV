@@ -8,10 +8,10 @@
 * Professionalas izglitības kompetences centrs (PIKS) Rīgas valsts tehnikkums(RVT) *
 ## Sasniegumi
 ## Hobiji
-* riteņbraukšana, ciņa(karate) *
+*riteņbraukšana, ciņa(karate)* 
 ## Pieredze programmēšanā
 **nav**
 ## Programmēšanas valodas ##
-* Python *
-* 01.02.21 *
+*Python*
+*01.02.21* 
 
